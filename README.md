@@ -19,7 +19,7 @@ George Orwell wrote “1984”. The author described an apocalyptic society but,
 
 Because of his inclination towards suffering, three were destined to happen: a do-it-yourself musical career in punk rock, a passion for Russian literature and the desire to program.
 
-Even though Paulo has studied Journalism, the fact is that this career was never meant to be. Because of this, he has worked around the globe and travelled quite a bit: always searching for something that would fulfill his dreams and passion.
+Even though Paulo has studied Journalism, the fact is that this career was never meant to be. Because of this, he has worked around the globe and travelled quite a bit: always searching for something that would fulfil his dreams and passion.
 
 Hence, in 2020 <Academia de Código_> appeared in his life and, therefore, a wild but brave decision was taken.
 
