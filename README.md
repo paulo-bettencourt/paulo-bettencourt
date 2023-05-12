@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I was born in the same year George Orwell's "1984" was published, a book that imagined an apocalyptic society. Throughout my life, I've had a tendency towards suffering which led me down three distinct paths: a do-it-yourself musical career in punk rock, a passion for Russian literature, and a desire to program.
+I was born in the same year that George Orwell's '1984' was set in, a book that imagined an apocalyptic society. Throughout my life, I've had a tendency towards suffering which led me down three distinct paths: a do-it-yourself musical career in punk rock, a passion for Russian literature, and a desire to program.
 
 Despite studying journalism, I came to realize that it was not the career for me. I spent some time traveling around the world, searching for something that would fulfill my dreams and passions. In 2020, I discovered <Academia de Código\_>, which changed my life. I made the adventurous decision to leave South America, where I had lived for six years, and return to my Azorean motherland to become a Junior Full Stack Developer.
 
