@@ -1,4 +1,4 @@
-### Hi there and welcome to Paulo's GitHub profile! 👋
+### Welcome to my GitHub profile! Hello there! 👋
 
 <!--
 **paulolemos-overflow/paulolemos-overflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-George Orwell wrote “1984”. The author described an apocalyptic society but, nevertheless, something unexpected was about to happen that year. And thus, Paulo Lemos was born.
+I was born in the same year George Orwell's "1984" was published, a book that imagined an apocalyptic society. Throughout my life, I've had a tendency towards suffering which led me down three distinct paths: a do-it-yourself musical career in punk rock, a passion for Russian literature, and a desire to program.
 
-Because of his inclination towards suffering, three were destined to happen: a do-it-yourself musical career in punk rock, a passion for Russian literature and the desire to program.
+Despite studying journalism, I came to realize that it was not the career for me. I spent some time traveling around the world, searching for something that would fulfill my dreams and passions. In 2020, I discovered <Academia de Código\_>, which changed my life. I made the adventurous decision to leave South America, where I had lived for six years, and return to my Azorean motherland to become a Junior Full Stack Developer.
 
-Even though Paulo has studied Journalism, the fact is that this career was never meant to be. Because of this, he has worked around the globe and travelled quite a bit: always searching for something that would fulfil his dreams and passion.
+After completing the <A/C\_> bootcamp in 2021, I was one step closer to achieving my dream. My previous nihilistic Sartrean perspective on life disappeared. Now, I'm ready for the big challenge that awaits me as I code the next chapter of my life at Bring Global.
 
-Hence, in 2020 <Academia de Código_> appeared in his life and, therefore, a wild but brave decision was taken.
-
-He would leave South America, after living there for 6 years, and would return to his Azorean motherland in order to be a Junior Full Stack Developer.
-
-In 2021, after taking <A/C_> bootcamp, he was one step closer to achieving his dream and, consequently, his nihilistic Sartre’s existentialism perspective on life disappeared.
-
-And now, the big challenge appeared and we shall code together the next chapter of Paulo’s book of life. And this will happen at Bring Global company.
+I'm excited to tackle this challenge and see what new opportunities arise.
